@@ -20,6 +20,18 @@
 - [ ] Homepage für CV
 - [ ] PacMan Game im Team (Modul 306)
 
+## 9.5.2025
+## Leit-Satz
+
+Heute habe ich mich ganz auf meinen Lebenslauf konzentriert. Ich dachte mir, dass es momentan sowieso genug zu tun gibt – vor allem mit dem neuen Thema in Modul 306, bei dem mein Team und ich einiges vor uns haben. Ein PacMan-Spiel umzusetzen ist nämlich alles andere als einfach. Bei meiner Website war mir wichtig, dass sie interaktiv und responsiv wirkt – das habe ich am Ende auch gut hinbekommen. Was mir persönlich aber noch nicht ganz gefällt, ist das Farbschema. Darüber werde ich mir noch Gedanken machen, aber das ist etwas, das sich schnell anpassen lässt. Zum Schachspielen kam es heute zwar nicht, dafür habe ich mir aber einen groben Überblick über unser PacMan-Projekt verschafft.
+
+## Für den 16.5.2025
+
+- [ ] Schach Spiel weiter entwickeln
+- [ ] Homepage für CV
+- [ ] Homepage für CV
+- [ ] PacMan Game im Team (Modul 306)
+
 
 
 
