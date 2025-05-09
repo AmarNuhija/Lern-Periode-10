@@ -18,7 +18,7 @@
 - [ ] Schach Spiel weiter entwickeln
 - [ ] Homepage für CV
 - [ ] Homepage für CV
-- [ ] E-Commerce Shop
+- [ ] PacMan Game im Team (Modul 306)
 
 
 
