@@ -37,7 +37,12 @@ Heute habe ich mich ganz auf meinen Lebenslauf konzentriert. Ich dachte mir, das
 
 Heute habe ich mich wieder darauf vorbereitet, das Schach Spiel weiter zu implementiere. Am Anfang hatte ich schwierigkeiten mit dem reinfinden ins Video Tutorial, doch dann ging es wieder. Heute waren die Hauptaufgaben: Wenn Bauer in die letzte Reihe kommt, darf er sich eines der 4 Figuren auswählen. Auch kam an der Reihe, ein richtiges Spielmenü zu erstellen, sprich mit EXIT oder RESTART. Dann war noch an der Reihe ein richtiges Spielende zu implementieren, sprich: GAME OVER! oder YOU WIN! usw. Das hat ziemlich spass gemacht, da ich wirklich sehen konnte, wie sich mein Spiel in den letzten 7 - 8 ILA Blöcke, so entwickelt hat. Die Homepage habe ich heute nicht weiter gestaltet, da ich es an einem anderen Tag gemacht habe. Und leider kam auch nicht so viel vom PacMan Spiel, aber auf das freue ich mich auch. (140 Wörter)
 
+## Für den 23.5.2025
 
+- [ ] Schach Spiel weiter entwickeln
+- [ ] Schach Spiel weiter entwickeln
+- [ ] PacMan Game im Team (Modul 306)
+- [ ] E-Commerce Demo Website (War einmal lange geplant bei mir)
 
 
 ✍️ Beschreiben Sie hier, wie Ihr Projekt am Ende aussieht, und fügen Sie mindestens ein .gif ein.
