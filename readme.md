@@ -27,11 +27,13 @@ Heute habe ich mich ganz auf meinen Lebenslauf konzentriert. Ich dachte mir, das
 
 ## Für den 16.5.2025
 
-- [ ] Schach Spiel weiter entwickeln
-- [ ] Homepage für CV
-- [ ] Homepage für CV
+- [x] Schach Spiel weiter entwickeln
+- [x] Homepage für CV
+- [x] Homepage für CV
 - [ ] PacMan Game im Team (Modul 306)
 
+## 16.5.2025
+## Leit-Satz
 
 
 
