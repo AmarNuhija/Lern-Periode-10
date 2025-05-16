@@ -15,10 +15,10 @@
 
 ## Für den 9.5.2025
 
-- [ ] Schach Spiel weiter entwickeln
-- [ ] Homepage für CV
-- [ ] Homepage für CV
-- [ ] PacMan Game im Team (Modul 306)
+- [x] Schach Spiel weiter entwickeln
+- [x] Homepage für CV
+- [x] Homepage für CV
+- [x] PacMan Game im Team (Modul 306)
 
 ## 9.5.2025
 ## Leit-Satz
