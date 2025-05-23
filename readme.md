@@ -39,10 +39,25 @@ Heute habe ich mich wieder darauf vorbereitet, das Schach Spiel weiter zu implem
 
 ## Für den 23.5.2025
 
+- [x] Schach Spiel weiter entwickeln
+- [x] Schach Spiel weiter entwickeln
+- [x] PacMan Game im Team (Modul 306)
+- [ ] E-Commerce Demo Website (War einmal lange geplant bei mir)
+
+## 23.5.2025
+## Leit-Satz
+
+Heute habe ich dafür gesort, dass ich ein bisschen in meinem Chess Game weiter komme. Heute war die Funktion dran, was passiert, wenn man den "Castle Move" machen möchte. Das heisst man möchte den König mit dem Läufer die Plätze tauschen, und somit eigentlich 2 Züge gemacht hat. Aber das ist nicht wirklich ein zweiter illegaler Move, sondern so sind die Regeln vereinbart worden. Das ging ganz gut, doch was ich am Anfang komplett vergessen habe ist, das man den König auch auf der Seite der Königin mit dem Läufer tauschen kann. Am Ende ging doch noch alles gut und ich bin mit meiner heutigen leistung ziemlich zufrieden. Dann habe ich einen klaren Überblick in unserem Projekt verschaffen, sprich ich habe die Codestruktur anaysiert und meinem aufgeteilten Befehlen befolgt. Ich bin dafür zuständig, dass das Spiel einen klaren Sound hat. Also die typischen PacMan Spiele Sounds. Leider bin ich nicht zu meiner E-Commerce Website angekommen, doch das andere hat mir einfach zu sehr spass gemacht, dass ich die Zeit komplett vergessen habe und es für nächstes mal einplanen werde. (179 Wörter).
+
+## Für den 6.6.2025
+
 - [ ] Schach Spiel weiter entwickeln
 - [ ] Schach Spiel weiter entwickeln
 - [ ] PacMan Game im Team (Modul 306)
-- [ ] E-Commerce Demo Website (War einmal lange geplant bei mir)
+- [ ] E-Commerce Demo Webstie
+
+## 6.6.2025
+## Leit-Satz
 
 
 ✍️ Beschreiben Sie hier, wie Ihr Projekt am Ende aussieht, und fügen Sie mindestens ein .gif ein.
