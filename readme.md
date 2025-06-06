@@ -51,12 +51,24 @@ Heute habe ich dafür gesort, dass ich ein bisschen in meinem Chess Game weiter 
 
 ## Für den 6.6.2025
 
-- [ ] Schach Spiel weiter entwickeln
-- [ ] Schach Spiel weiter entwickeln
-- [ ] PacMan Game im Team (Modul 306)
+- [x] PacMan Game im Team (Modul 306)
+- [x] PacMan Game im Team (Modul 306)
+- [x] PacMan Game im Team (Modul 306)
 - [ ] E-Commerce Demo Webstie
 
 ## 6.6.2025
+## Leit-Satz
+
+In dieser Woche sind wir im Modul 306 richtig reingestartet. Den wir wollten so präzise und so gut wie es geht im Team ein richtiges Projekt aufstellen. Das Pacman Spiel habe ich implementiert. Ich muss ehrlich sagen ein paar Elemente kannte ich schon aber andere waren mir ganz Neuland. Es ist nicht immer einfach ein Spielfeld zu entwickeln, wo man zum Beispiel nicht darüberlaufen kann  oder wo man als Pacman von einem Geist gefangen wird usw. Was am Ende nicht wirklich gut geklappt hat war, dass wenn man auf der einen Seite rausläuft, man auf der andere Seite wieder rauskommt. Hier war die Schwierigkeit, dass dann unsere Geister plötzlich einen strickten Pfad gelaufen sind und nicht wirklich von selbst gehandelt haben wie ein Computer. (124 Wörter)
+
+## Für den 13.6.2025
+
+- [ ] Pacman Game im Team (Modul 306)
+- [ ] Pacman Game im Team (Modul 306)
+- [ ] Pacman Game im Team (Modul 306)
+- [ ] Schach Spiel weiter entwickeln
+
+## 13.6.2025
 ## Leit-Satz
 
 
