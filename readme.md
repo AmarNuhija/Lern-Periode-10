@@ -63,13 +63,26 @@ In dieser Woche sind wir im Modul 306 richtig reingestartet. Den wir wollten so 
 
 ## Für den 13.6.2025
 
+- [x] Pacman Game im Team (Modul 306)
+- [x] Pacman Game im Team (Modul 306)
+- [x] Pacman Game im Team (Modul 306)
+- [ ] Schach Spiel weiter entwickeln
+
+## 13.6.2025
+## Leit-Satz
+
+In dieser Woche bin ich weiter fortgefahren mit dem Modul 306. Es macht mir persönlich richtig viel spass, die eigene Entwicklung mitanzusehen und zu wissen, dass man jeden Tag, jede Woche immer wieder ein paar Schritte nach vorne kommt. Dabei habe ich auch drauf geachtet, das ich die Dokumentation anfange und einen korrekten Startpunkt finden kann. Ich wollte an diesem Tag das Menü verbessern. Das geling mir auch, aber ich habe trotzdem noch für die nächste Sitzung eine kleine Ausbesserung geplant. Auch ist in der nächsten Sitzung mal wieder Schach Spiel geplant.
+
+## Für den 20.6.2025
+
 - [ ] Pacman Game im Team (Modul 306)
 - [ ] Pacman Game im Team (Modul 306)
 - [ ] Pacman Game im Team (Modul 306)
 - [ ] Schach Spiel weiter entwickeln
 
-## 13.6.2025
+## 20.6.2025
 ## Leit-Satz
+
 
 
 ✍️ Beschreiben Sie hier, wie Ihr Projekt am Ende aussieht, und fügen Sie mindestens ein .gif ein.
