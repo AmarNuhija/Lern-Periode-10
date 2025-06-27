@@ -85,6 +85,18 @@ In dieser Woche bin ich weiter fortgefahren mit dem Modul 306. Es macht mir pers
 
 Heute habe ich ein wenig am Pac-Man-Spiel gearbeitet. Ich habe kleinere Anpassungen am Code vorgenommen und einige Fehler überprüft, die während des Spiels auftreten könnten. Außerdem habe ich getestet, ob die Charaktere wie vorgesehen funktionieren und ob das Menü korrekt angezeigt wird. Einige Dinge, wie das Geisterverhalten, habe ich mir genauer angesehen, um mögliche Verbesserungen zu finden.
 
+## Für den 27.6.2025
+
+- [ ] Homepage Verbesserungen
+- [ ] Homepage Verbesserungen
+- [ ] Schach Spiel weiter entwickeln
+- [ ] Schach Spiel weiter entwickeln
+
+## 27.6.2025
+## Leit-Satz
+
+
+
 
 
 
